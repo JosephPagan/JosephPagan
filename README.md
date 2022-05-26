@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Pagan</h1>
 <h3 align="center">A passionate developer from New York</h3>
 
-- 🔭 I’m currently working on **an POS for Auto Shops**
+- 🔭 I’m currently working on **a POS for Auto Shops**
 
 - 👨‍💻 All of my projects are available at [https://silkysmoothsoftware.com/](https://silkysmoothsoftware.com/)
 
