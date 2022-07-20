@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a POS for Auto Shops**
 
-- 👨‍💻 All of my projects are available at [https://silkysmoothsoftware.com/](https://silkysmoothsoftware.com/)
+- 👨‍💻 All of my projects are available at https://joseph-pagan.netlify.app/
 
 - 📫 How to reach me **j.pagan9330@gmail.com**
 
